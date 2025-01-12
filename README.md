@@ -34,8 +34,7 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 - IQ-Tree
 - MEGA (Molecular Evolutionary Genetics Analysis)  
 
-### Visualization Tools  
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)  
+### Visualization Tools    
 ![GraphPad Prism](https://img.shields.io/badge/-GraphPad_Prism-690097?style=for-the-badge&logo=prism&logoColor=white)  
 
 ---
@@ -54,13 +53,14 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 
 ## 🌟 Let's Connect  
 Feel free to reach out and collaborate!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: youremail@example.com  
-- 💻 [GitHub](https://github.com/your-username)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-carius-computational-biology/)  
+- 📧 Email: vinicius.carius.souza@gmail.com
+- 📧 Email: carius.souza@gmail.com  
+- 💻 [GitHub](https://github.com/vcarius)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide=css)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vcarius&show_icons=true&hide=stars&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vcarius&layout=compact&theme=radical&hide=css)  
