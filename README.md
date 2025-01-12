@@ -12,7 +12,10 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 - **Virology**: Genome evolution and assembly.  
 - **Protein Structure**: Structural modeling and prediction of antigenic proteins.  
 - **Bioinformatics Tools**: Developing scripts for genome analysis and phylogenetic studies.  
-- **Structural Modeling**: SARS-CoV-2 spike proteins and immune system interactions.  
+- **Structural Modeling**: SARS-CoV-2 spike proteins and immune system interactions.
+- **Protein-Protein Interaction**: Studying interactions critical for host-pathogen dynamics.  
+- **Computer-Aided Drug Design (CADD)**: Developing computational pipelines for drug discovery.  
+
 
 ---
 
@@ -21,21 +24,30 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 ### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)  
 
-### Bioinformatics Tools  
-- PyMOL  
-- UCSF Chimera  
+### Bioinformatics Tools    
 - Biopython
+- Pyemma
+- Mdtraj
 - Gromacs
 - Amber
 - Namd
 - NextStrain
 - IQ-Tree
-- MEGA (Molecular Evolutionary Genetics Analysis)  
+- MEGA (Molecular Evolutionary Genetics Analysis)
+- HYPHY
 
-### Visualization Tools    
-![GraphPad Prism](https://img.shields.io/badge/-GraphPad_Prism-690097?style=for-the-badge&logo=prism&logoColor=white)  
+### Systems Administration  
+- **Linux Servers**: Managing high-performance servers for data-intensive tasks.  
+- Configuration of compute clusters and pipeline optimization.  
+
+### Visualization Tools 
+![PyMOL](https://img.shields.io/badge/-PyMOL-33AADD?style=for-the-badge&logo=pymol&logoColor=white)  
+![UCSF Chimera](https://img.shields.io/badge/-UCSF_Chimera-007396?style=for-the-badge&logo=chimera&logoColor=white)  
+![VMD](https://img.shields.io/badge/-VMD-FF9900?style=for-the-badge&logo=vmd&logoColor=white)  
 
 ---
 
