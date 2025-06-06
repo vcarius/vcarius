@@ -69,7 +69,8 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 
 ## 🌟 Let's Connect  
 Feel free to reach out and collaborate!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-carius-computational-biology/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-carius-computational-biology/)
+- 🌐 [Papers](https://scholar.google.com.br/citations?user=uFpE0wUAAAAJ&hl=pt-BR&oi=ao)  
 - 📧 Email: vinicius.carius.souza@gmail.com
 - 📧 Email: carius.souza@gmail.com  
 - 💻 [GitHub](https://github.com/vcarius)  
