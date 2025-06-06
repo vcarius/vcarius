@@ -14,7 +14,7 @@ I hold a **Master's in Biotechnology and Genetics** and a **PhD in Computational
 - **Bioinformatics Tools**: Developing scripts for genome analysis and phylogenetic studies.  
 - **Structural Modeling**: SARS-CoV-2 spike proteins and immune system interactions.
 - **Molecular Dynamics Simulations**: Understanding protein dynamics to explore conformational landscapes and energy minima.  
-- **Dimensionality Reduction and Clustering**: Applying techniques like PCA, t-SNE, and DBSCAN to identify preferred structures and key energetic minima in molecular simulations.  
+- **Dimensionality Reduction and Clustering**: Application of linear and non-linear dimensionality reduction techniques combined with supervised and unsupervised clustering methods to identify preferred conformational states and key energetic minima in molecular simulations.  
 - **Protein-Protein Interaction**: Studying interactions critical for host-pathogen dynamics.  
 - **Computer-Aided Drug Design (CADD)**: Developing computational pipelines for drug discovery.  
 
